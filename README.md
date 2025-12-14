@@ -7,8 +7,6 @@
 
 This project simulates a full ransomware attack chain, from the initial infection vector to file encryption and key management. It was designed to demonstrate how modern ransomware operates, communicates with a Command & Control (C2) server, and handles cryptographic keys securely.
 
-The goal of this research is to improve detection mechanisms and incident response strategies by reverse-engineering the offensive workflow.
-
 ## Key Features
 
 * **Client-Server Architecture:**
