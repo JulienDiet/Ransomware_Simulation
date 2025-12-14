@@ -3,13 +3,13 @@
 > **⚠️ DISCLAIMER: EDUCATIONAL PURPOSE ONLY**
 > This project was developed strictly for academic and educational purposes to understand the mechanics of malware, Command & Control (C2) architectures, and cryptographic operations. The author does not condone the use of this code for malicious activities. **Do not execute this software on systems you do not own or have explicit permission to test.**
 
-## 📖 Overview
+## Overview
 
 This project simulates a full ransomware attack chain, from the initial infection vector to file encryption and key management. It was designed to demonstrate how modern ransomware operates, communicates with a Command & Control (C2) server, and handles cryptographic keys securely.
 
 The goal of this research is to improve detection mechanisms and incident response strategies by reverse-engineering the offensive workflow.
 
-##  Key Features
+## Key Features
 
 * **Client-Server Architecture:**
     * **Agent (Malware):** Deployed on the target machine, responsible for file discovery and encryption.
